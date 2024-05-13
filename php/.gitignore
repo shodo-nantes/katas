@@ -1,0 +1,9 @@
+# composer dependencies
+vendor/
+
+# phpunit report and cache
+.phpunit.cache/
+phpunit-report/
+
+# phpcsfixer cache
+.php-cs-fixer.cache
