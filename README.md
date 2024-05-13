@@ -1,1 +1,1 @@
-# katas
+# kata-starters

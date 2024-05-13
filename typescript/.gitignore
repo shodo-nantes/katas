@@ -1,0 +1,16 @@
+# jetbrains
+.idea/
+
+# node dependencies
+node_modules/
+
+# jest coverage files
+coverage/
+
+# playwright test assets and cache
+playwright/.cache/
+test-results/
+playwright-report/
+
+# stryker temp files
+.stryker-tmp
