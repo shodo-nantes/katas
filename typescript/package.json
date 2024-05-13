@@ -10,7 +10,8 @@
     "test:pw:debug": "npx playwright test --debug",
     "test:pw:codegen": "npx playwright codegen",
     "test:pw:ui": "npx playwright test --ui",
-    "test:pw:report": "npx playwright show-report"
+    "test:pw:report": "npx playwright show-report",
+    "test:mutations": "npx stryker run"
   },
   "license": "MIT",
   "devDependencies": {
