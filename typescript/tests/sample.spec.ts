@@ -1,7 +1,8 @@
 import { myFunc } from "../src/index";
+import {describe, it, expect } from "vitest";
 
 describe('Test Suite', () => {
-    test('First Test', () => {
+    it('Should be first test', () => {
         expect(myFunc()).toBeTruthy();
     })
 });
