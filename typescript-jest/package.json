@@ -2,7 +2,9 @@
   "name": "typescript-jest",
   "description": "Template for TypeScript kata with Jest",
   "scripts": {
-    "test": "jest --watch",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:watchAll": "jest --watchAll",
     "test:coverage": "jest --coverage"
   },
   "devDependencies": {

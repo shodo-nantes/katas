@@ -20,6 +20,8 @@ _Note: You can use [nvm](https://github.com/nvm-sh/nvm?tab=readme-ov-file#instal
 
 Everything is ready to start coding. You can start coding in the `src` folder.
 
+_Note: You can run `npm run test:watch` to run the tests in watch mode or `npm run test:watchAll` to run all the tests in watch mode._
+
 ### Coverage
 
 You can see the coverage of the tests by running `npm run test:coverage`.
